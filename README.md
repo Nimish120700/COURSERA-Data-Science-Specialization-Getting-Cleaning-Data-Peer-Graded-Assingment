@@ -3,7 +3,7 @@
 # About the README file
 - This assignment's purpose is to demonstrate the students' ability to collect, clean and work on the data. 
 - A zipped file is provided containing all the required dataset.
-- This README file delineates the structure of the R code. All the steps are explained in brief which are also as comments in the original R script. 
+- This README file delineates the structure of the R code. All the steps are explained in brief which are also presented as comments in the original R script. 
 - Information about the variables is included in a separate Codebook file
 
 # About the R Script
